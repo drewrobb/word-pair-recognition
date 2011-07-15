@@ -1,4 +1,4 @@
 To generate new test:
 python run.py
 
-Depenencies: imagemagick
+Dependencies: imagemagick
